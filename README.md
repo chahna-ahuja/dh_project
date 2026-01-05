@@ -35,9 +35,9 @@ Github Repository Structure
 </h2>
 
 dh_project/
-├── README.md  # [Project overview](https://github.com/chahna-ahuja/dh_project/blob/main/README.md)
+├── README.md 
 ├── data/
-│   ├── dh_group7_drama.csv  # [Main dataset](https://github.com/chahna-ahuja/dh_project/blob/main/data/dh_group7_drama.csv)
+│   ├── [dh_group7_drama.csv](https://github.com/chahna-ahuja/dh_project/blob/main/data/dh_group7_drama.csv)
 │   ├── final_drama_comedy.csv  # [Comedy subset](https://github.com/chahna-ahuja/dh_project/blob/main/data/final_drama_comedy.csv)
 │   ├── final_drama_tragedy.csv  # [Tragedy subset](https://github.com/chahna-ahuja/dh_project/blob/main/data/final_drama_tragedy.csv)
 │   ├── final_drama_play.csv  # [Play dataset](https://github.com/chahna-ahuja/dh_project/blob/main/data/final_drama_play.csv)
