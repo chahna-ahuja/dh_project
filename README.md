@@ -35,25 +35,25 @@ Github Repository Structure
 </h2>
 
 dh_project/
-├── [README.md](#https://github.com/chahna-ahuja/dh_project/blob/main/README.md)                 # Project overview and instructions
-├── [data/](https://github.com/chahna-ahuja/dh_project/tree/main/data) 
-|   └──[dh_group7_drama.csv](https://github.com/chahna-ahuja/dh_project/blob/main/data/dh_group7_drama.csv)   # Main dataset 
-|   └──[final_drama_comedy.csv](https://github.com/chahna-ahuja/dh_project/blob/main/data/final_drama_comedy.csv) #comedy subset
-|   └──[final_drama_tragedy.csv](https://github.com/chahna-ahuja/dh_project/blob/main/data/final_drama_tragedy.csv) #tragedy subset
-|   └──[final_drama_play.csv](https://github.com/chahna-ahuja/dh_project/blob/main/data/final_drama_play.csv)   #play dataset
-│   └── [raw/](https://github.com/chahna-ahuja/dh_project/tree/main/data/raw)                  # Raw CSV dataset from British Library
-├── [data_analysis/](https://github.com/chahna-ahuja/dh_project/tree/main/data_analysis)           
-│   ├── [chahna_dataproject_script.ipynb](https://github.com/chahna-ahuja/dh_project/blob/main/data_analysis/chahna_dataproject_script.ipynb)   # Main Jupyter notebook
-│   └── [chahna_dataproject_jupyternotebook.html](https://github.com/chahna-ahuja/dh_project/blob/main/data_analysis/chahna_dataproject_jupyternotebook.html)    # HTML export of the notebook, you can download it
-├── [network_analysis/](https://github.com/chahna-ahuja/dh_project/tree/main/network_analysis)         
-│   ├── [comedy_network_nodes.csv](https://github.com/chahna-ahuja/dh_project/blob/main/network_analysis/network_nodes.csv)
-│   ├── [comedy_network_edges.csv](https://github.com/chahna-ahuja/dh_project/blob/main/network_analysis/network_edges.csv)
-│   └── [toplemmas_network.png](https://github.com/chahna-ahuja/dh_project/blob/main/network_analysis/toplemmas_network.png)  # Network visualization image
-|   └── [chahna_dataproject_network](https://github.com/chahna-ahuja/dh_project/blob/main/network_analysis/chahna_dataproject_network.gephi)
-├── [data_visualization](https://github.com/chahna-ahuja/dh_project/tree/main/data_visualization)         #Charts and data visualizations as documentation  
-├── [project_management](https://github.com/chahna-ahuja/dh_project/tree/main/project_management)  #project management plan + gantt chart for this project  
-└── [visual_assets/](https://github.com/chahna-ahuja/dh_project/tree/main/visual_assets)            
-    └── ...                   # Images used in notebook for visual aesthetics and manual inserts
+├── README.md  # [Project overview](https://github.com/chahna-ahuja/dh_project/blob/main/README.md)
+├── data/
+│   ├── dh_group7_drama.csv  # [Main dataset](https://github.com/chahna-ahuja/dh_project/blob/main/data/dh_group7_drama.csv)
+│   ├── final_drama_comedy.csv  # [Comedy subset](https://github.com/chahna-ahuja/dh_project/blob/main/data/final_drama_comedy.csv)
+│   ├── final_drama_tragedy.csv  # [Tragedy subset](https://github.com/chahna-ahuja/dh_project/blob/main/data/final_drama_tragedy.csv)
+│   ├── final_drama_play.csv  # [Play dataset](https://github.com/chahna-ahuja/dh_project/blob/main/data/final_drama_play.csv)
+│   └── raw/  # [Raw CSVs from British Library](https://github.com/chahna-ahuja/dh_project/tree/main/data/raw)
+├── data_analysis/
+│   ├── chahna_dataproject_script.ipynb  # [Jupyter notebook](https://github.com/chahna-ahuja/dh_project/blob/main/data_analysis/chahna_dataproject_script.ipynb)
+│   └── chahna_dataproject_jupyternotebook.html  # [HTML export](https://github.com/chahna-ahuja/dh_project/blob/main/data_analysis/chahna_dataproject_jupyternotebook.html)
+├── network_analysis/
+│   ├── comedy_network_nodes.csv  # [Nodes CSV](https://github.com/chahna-ahuja/dh_project/blob/main/network_analysis/network_nodes.csv)
+│   ├── comedy_network_edges.csv  # [Edges CSV](https://github.com/chahna-ahuja/dh_project/blob/main/network_analysis/network_edges.csv)
+│   ├── toplemmas_network.png  # [Network visualization image](https://github.com/chahna-ahuja/dh_project/blob/main/network_analysis/toplemmas_network.png)
+│   └── chahna_dataproject_network.gephi  # [Gephi project file](https://github.com/chahna-ahuja/dh_project/blob/main/network_analysis/chahna_dataproject_network.gephi)
+├── data_visualization/  # Charts and visualizations for documentation
+├── project_management/  # Project management plan + Gantt chart
+└── visual_assets/  # [Images used in notebook](https://github.com/chahna-ahuja/dh_project/tree/main/visual_assets) for aesthetics
+
 
 ---
 <h2 id="dataset" data-toc="false">
