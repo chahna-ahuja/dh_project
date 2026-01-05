@@ -35,24 +35,25 @@ Github Repository Structure
 </h2>
 
 dh_project/
-├── README.md 
+├── README.md
 ├── data/
-│   ├── [dh_group7_drama.csv](https://github.com/chahna-ahuja/dh_project/blob/main/data/dh_group7_drama.csv)
-│   ├── final_drama_comedy.csv  # [Comedy subset](https://github.com/chahna-ahuja/dh_project/blob/main/data/final_drama_comedy.csv)
-│   ├── final_drama_tragedy.csv  # [Tragedy subset](https://github.com/chahna-ahuja/dh_project/blob/main/data/final_drama_tragedy.csv)
-│   ├── final_drama_play.csv  # [Play dataset](https://github.com/chahna-ahuja/dh_project/blob/main/data/final_drama_play.csv)
-│   └── raw/  # [Raw CSVs from British Library](https://github.com/chahna-ahuja/dh_project/tree/main/data/raw)
+│   ├── dh_group7_drama.csv
+│   ├── final_drama_comedy.csv
+│   ├── final_drama_tragedy.csv
+│   ├── final_drama_play.csv
+│   └── raw/
 ├── data_analysis/
-│   ├── chahna_dataproject_script.ipynb  # [Jupyter notebook](https://github.com/chahna-ahuja/dh_project/blob/main/data_analysis/chahna_dataproject_script.ipynb)
-│   └── chahna_dataproject_jupyternotebook.html  # [HTML export](https://github.com/chahna-ahuja/dh_project/blob/main/data_analysis/chahna_dataproject_jupyternotebook.html)
+│   ├── chahna_dataproject_script.ipynb
+│   └── chahna_dataproject_jupyternotebook.html
 ├── network_analysis/
-│   ├── comedy_network_nodes.csv  # [Nodes CSV](https://github.com/chahna-ahuja/dh_project/blob/main/network_analysis/network_nodes.csv)
-│   ├── comedy_network_edges.csv  # [Edges CSV](https://github.com/chahna-ahuja/dh_project/blob/main/network_analysis/network_edges.csv)
-│   ├── toplemmas_network.png  # [Network visualization image](https://github.com/chahna-ahuja/dh_project/blob/main/network_analysis/toplemmas_network.png)
-│   └── chahna_dataproject_network.gephi  # [Gephi project file](https://github.com/chahna-ahuja/dh_project/blob/main/network_analysis/chahna_dataproject_network.gephi)
-├── data_visualization/  # Charts and visualizations for documentation
-├── project_management/  # Project management plan + Gantt chart
-└── visual_assets/  # [Images used in notebook](https://github.com/chahna-ahuja/dh_project/tree/main/visual_assets) for aesthetics
+│   ├── comedy_network_nodes.csv
+│   ├── comedy_network_edges.csv
+│   ├── toplemmas_network.png
+│   └── chahna_dataproject_network.gephi
+├── data_visualization/
+├── project_management/
+└── visual_assets/
+
 
 
 ---
