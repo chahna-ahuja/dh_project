@@ -34,26 +34,30 @@ The workflow of this notebook proceeds in three stages:
 Github Repository Structure
 </h2>
 
-dh_project/
-├── README.md
-├── data/
-│   ├── dh_group7_drama.csv
-│   ├── final_drama_comedy.csv
-│   ├── final_drama_tragedy.csv
-│   ├── final_drama_play.csv
-│   └── raw/
-├── data_analysis/
-│   ├── chahna_dataproject_script.ipynb
-│   └── chahna_dataproject_jupyternotebook.html
-├── network_analysis/
-│   ├── comedy_network_nodes.csv
-│   ├── comedy_network_edges.csv
-│   ├── toplemmas_network.png
-│   └── chahna_dataproject_network.gephi
-├── data_visualization/
-├── project_management/
-└── visual_assets/
+- [README.md](https://github.com/chahna-ahuja/dh_project/blob/main/README.md)
 
+- **data/**
+  - [dh_group7_drama.csv](https://github.com/chahna-ahuja/dh_project/blob/main/data/dh_group7_drama.csv)
+  - [final_drama_comedy.csv](https://github.com/chahna-ahuja/dh_project/blob/main/data/final_drama_comedy.csv)
+  - [final_drama_tragedy.csv](https://github.com/chahna-ahuja/dh_project/blob/main/data/final_drama_tragedy.csv)
+  - [final_drama_play.csv](https://github.com/chahna-ahuja/dh_project/blob/main/data/final_drama_play.csv)
+  - [raw/](https://github.com/chahna-ahuja/dh_project/tree/main/data/raw)
+
+- **data_analysis/**
+  - [chahna_dataproject_script.ipynb](https://github.com/chahna-ahuja/dh_project/blob/main/data_analysis/chahna_dataproject_script.ipynb)
+  - [chahna_dataproject_jupyternotebook.html](https://github.com/chahna-ahuja/dh_project/blob/main/data_analysis/chahna_dataproject_jupyternotebook.html)
+
+- **network_analysis/**
+  - [comedy_network_nodes.csv](https://github.com/chahna-ahuja/dh_project/blob/main/network_analysis/network_nodes.csv)
+  - [comedy_network_edges.csv](https://github.com/chahna-ahuja/dh_project/blob/main/network_analysis/network_edges.csv)
+  - [toplemmas_network.png](https://github.com/chahna-ahuja/dh_project/blob/main/network_analysis/toplemmas_network.png)
+  - [chahna_dataproject_network.gephi](https://github.com/chahna-ahuja/dh_project/blob/main/network_analysis/chahna_dataproject_network.gephi)
+
+- **data_visualization/** #charts and data visualizations from python
+
+- **project_management/** #project management plant + gantt chart
+
+- **visual_assets/** #visual aesthetic images for python html
 
 
 ---
