@@ -1,5 +1,5 @@
 <h1 id="notebook-title" data-toc="false">
-ALL THE METADATA'S A STAGE NOTEBOOK 
+ALL THE METADATA'S A STAGE 
 </h1>
 <h2 id="notebook-subtitle" data-toc="false">
 Exploratory Bibliographic and Text Network Analysis of British Comedy Dramas Across 17th-19th Centuries
