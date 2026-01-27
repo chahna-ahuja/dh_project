@@ -71,7 +71,7 @@ Dataset
   - **Facet filtering** to isolate subsets and identify inconsistencies.  
   - **GREL scripting** to standardize and transform columns.  
   - **WikiData reconciliation** to enrich author information with contextual metadata.  
-- **Cleaned Datasets:** Main dataset: dh_group7_drama.csv. Three subdatasets: *Comedy*, *Tragedy*, *Plays* cleaned in *OpenRefine* by Chahna Ahuja, Xinran Liu and Liangyu Gan, respectively as a group project component for this assignment. ([check this Github repository to know more!](https://github.com/chahna-ahuja/dh-g7-project)
+- **Cleaned Datasets:** Main dataset: dh_group7_drama.csv. Three subdatasets: *Comedy*, *Tragedy*, *Plays* cleaned in *OpenRefine* by Chahna Ahuja, Xinran Liu and Liangyu Gan, respectively as a group project component for this assignment. ([check this Github repository to know more!](https://github.com/chahna-ahuja/dh-g7-project))
 ---
 <h2 id="methods" data-toc="false">
 Methods
