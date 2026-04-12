@@ -2,7 +2,7 @@
 ALL THE METADATA'S A STAGE 
 </h1>
 <h2 id="notebook-subtitle" data-toc="false">
-Exploratory Bibliographic and Text Network Analysis of British Comedy Dramas Across 17th-19th Centuries
+Exploratory Bibliographic and Text Network Analysis of British Comedy Dramas Across 17th-19th Centuries Using OpenRefine, Python and Gephi
 </h2>
 <h3 id="author" data-toc="false">
 Author: Chahna Ahuja
